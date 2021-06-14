@@ -1,0 +1,12 @@
+4
+6
+1:0:10:Chefe
+2:1:10:Selvagem
+3:2:10:Grande Artista
+4:0:20:Amante de Praia
+5:0:20:Artolas
+6:0:20:O Maior
+0:1:0:2
+0:0:3:0
+0:0:4:5
+0:6:0:0

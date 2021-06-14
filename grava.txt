@@ -1,0 +1,10 @@
+4
+4
+3:0:10:Grande Artista
+4:0:20:Amante de Praia
+5:0:20:Artolas
+6:0:20:O Maior
+0:0:0:0
+0:0:0:3
+0:0:0:5
+0:6:0:4
